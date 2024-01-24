@@ -34,6 +34,7 @@ Predict a laptop's price considering key features like product name, processor-g
     * **Deploying the App:** Host the Streamlit app on Render for online accessibility and scalability.
     * **Version Control and Management:** Utilize GitHub for version control and ongoing project management.
     * **Link:** To access the web application - https://laptop-price-1cj6.onrender.com
+   
 **Key Technologies:**
 
 * Python programming language
