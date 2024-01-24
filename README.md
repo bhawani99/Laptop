@@ -9,7 +9,7 @@ Predct laptop's price based on product name, processor, processor generation, op
 **Project Goals:**
 
 * Uncover the **key factors influencing laptop pricing** through insightful data analysis.
-* Develop a ** price prediction model**.
+* Develop a **price prediction model**.
 
 **Project Structure:**
 
