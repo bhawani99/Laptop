@@ -1,4 +1,4 @@
-Laptop Price Prediction
+## **Laptop Price Prediction**
 
 **Welcome to the Laptop Price Prediction project!** This project aims to build a machine-learning model and a user-friendly application for predicting laptop prices based on their specifications.
 
@@ -42,4 +42,8 @@ Predict a laptop's price considering key features like product name, processor-g
 * Scikit-learn library for machine learning algorithms
 * Streamlit framework for web app development
 * Render platform for app hosting
+
+
+**Disclaimer** - This model's predictions are based on the specific dataset used and may not accurately reflect current market dynamics. Please consider this limitation when interpreting the results. 
+Future market prices may vary due to factors not present in the data.
 
